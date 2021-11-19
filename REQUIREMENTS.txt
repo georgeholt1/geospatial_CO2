@@ -1,0 +1,8 @@
+Python 3.6
+Anaconda:
+ - matplotlib
+ - pandas
+ - cartopy
+ - jupyterlab
+Pip:
+ - pycountry-convert
